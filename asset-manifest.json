@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/visit-lebanon/static/css/main.0547935f.chunk.css",
-    "main.js": "/visit-lebanon/static/js/main.38dc1298.chunk.js",
-    "main.js.map": "/visit-lebanon/static/js/main.38dc1298.chunk.js.map",
-    "runtime-main.js": "/visit-lebanon/static/js/runtime-main.9ff78b98.js",
-    "runtime-main.js.map": "/visit-lebanon/static/js/runtime-main.9ff78b98.js.map",
-    "static/js/2.79c6c40a.chunk.js": "/visit-lebanon/static/js/2.79c6c40a.chunk.js",
-    "static/js/2.79c6c40a.chunk.js.map": "/visit-lebanon/static/js/2.79c6c40a.chunk.js.map",
-    "index.html": "/visit-lebanon/index.html",
-    "static/css/main.0547935f.chunk.css.map": "/visit-lebanon/static/css/main.0547935f.chunk.css.map",
-    "static/js/2.79c6c40a.chunk.js.LICENSE.txt": "/visit-lebanon/static/js/2.79c6c40a.chunk.js.LICENSE.txt",
-    "static/media/Beirut.fed2d312.jpg": "/visit-lebanon/static/media/Beirut.fed2d312.jpg",
-    "static/media/Cats.1ebfd1cc.jpg": "/visit-lebanon/static/media/Cats.1ebfd1cc.jpg",
-    "static/media/App.css": "/visit-lebanon/static/media/Comingsoon.2818d9d3.png",
-    "static/media/House.e7b7911e.jpg": "/visit-lebanon/static/media/House.e7b7911e.jpg",
-    "static/media/Lake.d0f89d59.jpg": "/visit-lebanon/static/media/Lake.d0f89d59.jpg",
-    "static/media/Tyre.7228f67d.jpg": "/visit-lebanon/static/media/Tyre.7228f67d.jpg"
+    "main.css": "/Visit-Lebanon/static/css/main.af44cc84.chunk.css",
+    "main.js": "/Visit-Lebanon/static/js/main.38dc1298.chunk.js",
+    "main.js.map": "/Visit-Lebanon/static/js/main.38dc1298.chunk.js.map",
+    "runtime-main.js": "/Visit-Lebanon/static/js/runtime-main.977bf84b.js",
+    "runtime-main.js.map": "/Visit-Lebanon/static/js/runtime-main.977bf84b.js.map",
+    "static/js/2.79c6c40a.chunk.js": "/Visit-Lebanon/static/js/2.79c6c40a.chunk.js",
+    "static/js/2.79c6c40a.chunk.js.map": "/Visit-Lebanon/static/js/2.79c6c40a.chunk.js.map",
+    "index.html": "/Visit-Lebanon/index.html",
+    "static/css/main.af44cc84.chunk.css.map": "/Visit-Lebanon/static/css/main.af44cc84.chunk.css.map",
+    "static/js/2.79c6c40a.chunk.js.LICENSE.txt": "/Visit-Lebanon/static/js/2.79c6c40a.chunk.js.LICENSE.txt",
+    "static/media/Beirut.fed2d312.jpg": "/Visit-Lebanon/static/media/Beirut.fed2d312.jpg",
+    "static/media/Cats.1ebfd1cc.jpg": "/Visit-Lebanon/static/media/Cats.1ebfd1cc.jpg",
+    "static/media/App.css": "/Visit-Lebanon/static/media/Comingsoon.2818d9d3.png",
+    "static/media/House.e7b7911e.jpg": "/Visit-Lebanon/static/media/House.e7b7911e.jpg",
+    "static/media/Lake.d0f89d59.jpg": "/Visit-Lebanon/static/media/Lake.d0f89d59.jpg",
+    "static/media/Tyre.7228f67d.jpg": "/Visit-Lebanon/static/media/Tyre.7228f67d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ff78b98.js",
+    "static/js/runtime-main.977bf84b.js",
     "static/js/2.79c6c40a.chunk.js",
-    "static/css/main.0547935f.chunk.css",
+    "static/css/main.af44cc84.chunk.css",
     "static/js/main.38dc1298.chunk.js"
   ]
 }
